@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------
+Gelo em cubo 3Kg
+Saco com gelo em cubos produzido com agua trata e embalado mecanicamente.
+UN
+3,50
+250
+0
+XX/XX/XXXX
+
+--------------------------------------------------------------------------
+Gelo em cubo 1Kg
+Saco com gelo em cubos produzido com agua trata e embalado mecanicamente.
+UN
+1,25
+180
+0
+XX/XX/XXXX
+
+--------------------------------------------------------------------------
+Gelo em escamas 4Kg
+Saco com gelo em escamas produzido com agua trata e embalado mecanicamente.
+UN
+6,20
+100
+0
+XX/XX/XXXX
+
+--------------------------------------------------------------------------
+Gelo em barra
+Barra de gelo produzido com agua trata e embalado mecanicamente.
+UN
+8,35
+95
+0
+XX/XX/XXXX
+
+--------------------------------------------------------------------------
+Café Ibicui 1Kg
+Café torrado em saco de 1Kg produzido na fazenda Ibicui e embalado mecanicamente.
+UN
+16,20
+100
+1
+XX/XX/XXXX
+
+--------------------------------------------------------------------------
+Açucar São João 2Kg
+Açucar refinado em saco de 2Kg direto da fazenda Ibicui embalado mecanicamente.
+UN
+6,20
+165
+1
+XX/XX/XXXX
+
+

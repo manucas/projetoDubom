@@ -1,0 +1,10 @@
+Perfil de Usuarios
+------------------------------------
+1 - Administrador (Sistema)
+2 - Administrador (Empresa)
+3 - Diretor
+4 - Gerente
+5 - Supervisor
+6 - Representante (Vendedor)
+7 - Cliente
+8 - Visitante
